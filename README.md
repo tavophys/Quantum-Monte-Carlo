@@ -6,3 +6,5 @@
 Julian Bender, Patrick Emonts, and J. Ignacio Cirac [Phys. Rev. Research 5, 043128](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043128)
 - [Triangular lattice quantum dimer model with variable dimer density](https://arxiv.org/pdf/2202.11100.pdf) Zheng Yan, Rhine Samajdar, Yan-Cheng Wang, Subir Sachdev, and Zi Yang Meng1
   Dimer models on square lattice- of interest to Luis. In above paper , they study phase diagram of quantum dimer model on triangular lattice with sweeping cluster QMC
+- [Reentrance effect in the high-temperature critical phase of the quantum dimer model on the square lattice](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.106.205121)
+  QMC study for finite temperature phase diagram.
